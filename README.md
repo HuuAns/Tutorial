@@ -27,5 +27,8 @@ git add.
 git commit -m"..."
 git push   (main) /  git push origin master (master)
 
+-- pull code (đồng bộ sự thay đổi của code trên git với code cũ trên máy)
+git pull
+
 Cài project reactjs
 
