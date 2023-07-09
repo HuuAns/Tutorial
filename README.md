@@ -32,6 +32,8 @@ git pull
 
 Cài project reactjs
 
+npx create-next-app
+
 Cài netjs :
 
 $ npm i -g @nestjs/cli
