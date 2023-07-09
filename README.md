@@ -9,8 +9,8 @@ git init
 -- Kiểm tra kết nối :
 git remote -v
 
--- Kết nối (nếu chưa có)
-git remote add origin ...(ví dụ:  )
+-- Kết nối (nếu chưa có) visual studio code
+git remote add origin ...(ví dụ: git remote add origin https://github.com/HuuAns/Tutorial.git )
 
 
 Cài project reactjs
