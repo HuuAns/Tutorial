@@ -21,5 +21,9 @@ git clone ... (ví dụ: git clone https://github.com/HuuAns/Tutorial.git )
 
 -- push code
 
+git add. 
+git commit -m"..."
+git push origin master
+
 Cài project reactjs
 
