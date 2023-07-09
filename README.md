@@ -23,7 +23,7 @@ git clone ... (ví dụ: git clone https://github.com/HuuAns/Tutorial.git )
 
 git add. 
 git commit -m"..."
-git push origin master
+git push   (main) /  git push origin master (master)
 
 Cài project reactjs
 
