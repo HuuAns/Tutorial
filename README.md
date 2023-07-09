@@ -32,3 +32,8 @@ git pull
 
 Cài project reactjs
 
+Cài netjs :
+
+$ npm i -g @nestjs/cli
+$ nest new project-name
+
