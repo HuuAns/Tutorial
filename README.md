@@ -19,6 +19,8 @@ git remote add origin ...(ví dụ: git remote add origin https://github.com/Huu
 -- clone code
 git clone ... (ví dụ: git clone https://github.com/HuuAns/Tutorial.git )
 
+-- kiểm tra sự thay đổi:
+git status
 -- push code
 
 git add. 
